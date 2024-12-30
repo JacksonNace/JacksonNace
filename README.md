@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jacksonnace&label=Profile%20views&color=0e75b6&style=flat" alt="jacksonnace" /> </p>
 
-- 👨‍💻 All of my projects are available at [jacksonnace.com](jacksonnace.com)
+- 👨‍💻 All of my projects are available at [jacksonnace.com](jacksonnace.com) - not built yet oops
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
