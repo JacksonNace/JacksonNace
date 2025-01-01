@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jackson Nace</h1>
-<h3 align="center">A passionate student studying at the University of Houston</h3>
+<h3 align="center">A student studying at the University of Houston</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jacksonnace&label=Profile%20views&color=0e75b6&style=flat" alt="jacksonnace" /> </p>
 
