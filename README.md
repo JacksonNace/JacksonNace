@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jackson Nace</h1>
 <h3 align="center">A student studying at the University of Houston</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jacksonnace&label=Profile%20views&color=0e75b6&style=flat" alt="jacksonnace" /> </p>
-
 - 👨‍💻 All of my projects are available at [jacksonnace.com](jacksonnace.com) - not built yet oops
 
 <h3 align="left">Connect with me:</h3>
