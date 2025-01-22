@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jackson Nace</h1>
 <h3 align="center">A student studying at the University of Houston</h3>
 
-- 👨‍💻 All of my (good) projects are available at [jacksonnace.com](jacksonnace.com) - not built yet oops
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/jacksonnace" target="blank">
