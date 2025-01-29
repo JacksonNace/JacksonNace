@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jackson Nace</h1>
 <h3 align="center">A Student studying at the University of Houston</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jacksonnace&label=Profile%20views&color=0e75b6&style=flat" alt="jacksonnace" /> </p>
-
-- 👨‍💻 All of my projects are available at [jacksonnace.com](jacksonnace.com)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jacksonnace" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jacksonnace" height="30" width="40" /></a>
